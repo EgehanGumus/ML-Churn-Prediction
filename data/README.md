@@ -1,7 +1,7 @@
 ## Veri Seti Hakkında
 
-Bu projede kullanılan veri seti **Kaggle** platformundan temin edilmiştir.
-Veri seti, ikinci el araçlara ait çeşitli özellikleri ve satış fiyatlarını
-içermektedir.
+Bu projede kullanılan veri seti **Kaggle** platformundan temin edilmiştir.  
+Veri seti, telekomünikasyon sektöründe müşterilere ait çeşitli özellikleri (tenure, kontrat tipi, internet hizmeti, ödeme yöntemi, toplam fatura tutarı vb.) içermektedir.  
+Hedef değişken, müşterinin hizmeti bırakıp bırakmadığını gösteren `churn` bilgisidir.  
 
-Bu veri seti eğitim  amacıyla kullanılmıştır.
+Bu veri seti yalnızca **eğitim ve analiz amacıyla** kullanılmıştır.
