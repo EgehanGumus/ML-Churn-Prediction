@@ -41,10 +41,10 @@ Veri hazırlığı kapsamında:
 
 ## 📁 Dosyalar
 - `Churn.csv` : Veri seti  
-- `Churn_Analysis.ipynb` : Veri analizi, modelleme ve sonuçlar  
+- `Müşteri_ Kayıp_Tahmini.ipynb` : Veri analizi, modelleme ve sonuçlar  
 - `README.md` : Proje özeti ve kullanım rehberi  
 
 > Not: Bu notebook rapor formatında hazırlanmış olup tüm analizler, çıktılar ve görseller çalıştırılmış şekilde sunulmaktadır. Projeyi incelemek için yeniden çalıştırılması zorunlu değildir.  
 > Dileyen kullanıcılar projeyi kendi ortamlarında çalıştırmak isterse:  
-> - **Lokal ortamda:** Bilgisayarında Python (Anaconda önerilir) kurulu olmalıdır. Repo indirildikten sonra Anaconda Navigator üzerinden Jupyter Notebook açılarak `Churn_Analysis.ipynb` dosyası `Restart & Run All` ile çalıştırılabilir.  
+> - **Lokal ortamda:** Bilgisayarında Python (Anaconda önerilir) kurulu olmalıdır. Repo indirildikten sonra Anaconda Navigator üzerinden Jupyter Notebook açılarak `Müşteri_ Kayıp_Tahmini.ipynb` dosyası `Restart & Run All` ile çalıştırılabilir.  
 > - **Web üzerinden:** Proje, Google Colab veya benzeri çevrim içi Jupyter ortamlarına yüklenerek de çalıştırılabilir. Bu durumda veri dosyasının `data/` klasörü altında bulunmasına dikkat edilmelidir.  
